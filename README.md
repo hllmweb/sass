@@ -1,3 +1,13 @@
+Primeiro instalar ruby-cli
+sudo apt-get install ruby-full
+
+Verificando a versão do ruby
+ruby -v
+
+Instalar sass 
+sudo gem install sass
+
+
 Comando para compilar estrutura sass em css
 sass --watch nome-pasta-scss/arquivo.scss:nome-pasta-css/arquivo.css
 
